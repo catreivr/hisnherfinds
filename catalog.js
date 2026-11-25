@@ -6,7 +6,6 @@
   const empty = document.querySelector('#empty');
   const search = document.querySelector('#search');
   const filters = [...document.querySelectorAll('[data-category]')];
-  const currency = new Intl.NumberFormat('id-ID', { style: 'currency', currency: 'IDR', maximumFractionDigits: 0 });
   let category = 'all';
 
   if (!Array.isArray(products)) {
@@ -24,10 +23,6 @@
     card.querySelector('.product-number').textContent = `#${String(product.number).padStart(2, '0')}`;
     card.querySelector('.product-category').textContent = product.category;
     card.querySelector('h3').textContent = product.name;
-
-    const price = card.querySelector('.product-price');
-    price.textContent = Number.isFinite(product.price) ? currency.format(product.price) : 'Cek harga di Shopee';
-    price.classList.toggle('price-unknown', !Number.isFinite(product.price));
 
     const link = card.querySelector('.product-link');
     link.href = product.url;
