@@ -205,14 +205,38 @@ window.catalogProducts = [
   },
   {
     "number": 35,
-    "name": "Grey Blazer",
-    "category": "Her",
-    "url": "https://s.shopee.co.id/3LSft7vuLS"
-  },
-  {
-    "number": 36,
     "name": "Loose Pants Women",
     "category": "Her",
     "url": "https://s.shopee.co.id/9fMhTcZtJZ"
+  },
+  {
+    "number": 36,
+    "name": "Cape top",
+    "category": "Her",
+    "url": "https://s.shopee.co.id/8pndAMtKHS"
+  },
+  {
+    "number": 37,
+    "name": "Two tone bow heels",
+    "category": "Her",
+    "url": "https://s.shopee.co.id/80EWB0QUKX"
+  },
+  {
+    "number": 38,
+    "name": "Orchid Brooch",
+    "category": "Her",
+    "url": "https://s.shopee.co.id/80EWBE4P1F"
+  },
+  {
+    "number": 39,
+    "name": "Kate bag",
+    "category": "Her",
+    "url": "https://s.shopee.co.id/30pqEn4JXG"
+  },
+  {
+    "number": 40,
+    "name": "Grey Blazer",
+    "category": "Her",
+    "url": "https://s.shopee.co.id/3LSft7vuLS"
   }
 ];
