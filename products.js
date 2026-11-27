@@ -255,7 +255,7 @@ window.catalogProducts = [
     "number": 43,
     "name": "Knit Bomber Jacket",
     "category": "Her",
-    "url": "https://s.shopee.co.id/1gKU81zuMg"
+    "url": "https://s.shopee.co.id/9Kjwp3vDmj"
   },
   {
     "number": 44,
