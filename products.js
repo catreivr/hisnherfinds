@@ -238,5 +238,77 @@ window.catalogProducts = [
     "name": "Grey Blazer",
     "category": "Her",
     "url": "https://s.shopee.co.id/3LSft7vuLS"
+  },
+  {
+    "number": 41,
+    "name": "Polka Pocket Umbrella",
+    "category": "Her",
+    "url": "https://s.shopee.co.id/20xKWDWVTm"
+  },
+  {
+    "number": 42,
+    "name": "Coffee tumbler",
+    "category": "Her",
+    "url": "https://s.shopee.co.id/1gKU81zuMg"
+  },
+  {
+    "number": 43,
+    "name": "Knit Bomber Jacket",
+    "category": "Her",
+    "url": "https://s.shopee.co.id/1gKU81zuMg"
+  },
+  {
+    "number": 44,
+    "name": "Lip Oil",
+    "category": "Her",
+    "url": "https://s.shopee.co.id/8fUETiwaTr"
+  },
+  {
+    "number": 45,
+    "name": "Waterproof nylon bag",
+    "category": "Her",
+    "url": "https://s.shopee.co.id/6q2aImwvDt"
+  },
+  {
+    "number": 46,
+    "name": "Leakproof Pouch",
+    "category": "Her",
+    "url": "https://s.shopee.co.id/7VIH6Wih96"
+  },
+  {
+    "number": 47,
+    "name": "waterproof tracksuit",
+    "category": "His",
+    "url": "https://s.shopee.co.id/AAJ2HmoxFf"
+  },
+  {
+    "number": 48,
+    "name": "baseball cap",
+    "category": "His",
+    "url": "https://s.shopee.co.id/9074wW59mh"
+  },
+  {
+    "number": 49,
+    "name": "wired followup",
+    "category": "His",
+    "url": "https://s.shopee.co.id/3Vm8Lqsv0n"
+  },
+  {
+    "number": 50,
+    "name": "nylon bag man",
+    "category": "His",
+    "url": "https://s.shopee.co.id/8KrOAJijgN"
+  },
+  {
+    "number": 51,
+    "name": "helm cover",
+    "category": "His",
+    "url": "https://s.shopee.co.id/9AQVA0sA29"
+  },
+  {
+    "number": 52,
+    "name": "rain coat",
+    "category": "His",
+    "url": "https://s.shopee.co.id/5LDmb7kygE"
   }
 ];
