@@ -310,5 +310,59 @@ window.catalogProducts = [
     "name": "rain coat",
     "category": "His",
     "url": "https://s.shopee.co.id/5LDmb7kygE"
+  },
+  {
+    "number": 53,
+    "name": "Gym gloves",
+    "category": "Her",
+    "url": "https://s.shopee.co.id/2LaE1u8nyL"
+  },
+  {
+    "number": 54,
+    "name": "two tone legging",
+    "category": "Her",
+    "url": "https://s.shopee.co.id/7fbiobrU2r"
+  },
+  {
+    "number": 55,
+    "name": "Sport Top",
+    "category": "Her",
+    "url": "https://s.shopee.co.id/AKcU065pyx"
+  },
+  {
+    "number": 56,
+    "name": "NB 530",
+    "category": "Her",
+    "url": "https://s.shopee.co.id/9V3NipN7mH"
+  },
+  {
+    "number": 57,
+    "name": "bowler bag",
+    "category": "Her",
+    "url": "https://s.shopee.co.id/30pupCw8SI"
+  },
+  {
+    "number": 58,
+    "name": "Nike P-6000",
+    "category": "His",
+    "url": "https://s.shopee.co.id/3VmAZvFVkk"
+  },
+  {
+    "number": 59,
+    "name": "sleeveless tee",
+    "category": "His",
+    "url": "https://s.shopee.co.id/7AfSxFHffI"
+  },
+  {
+    "number": 60,
+    "name": "Anti slip gym grip",
+    "category": "His",
+    "url": "https://s.shopee.co.id/4qHXR1fnfe"
+  },
+  {
+    "number": 61,
+    "name": "Brown Sweat pants",
+    "category": "His",
+    "url": "https://s.shopee.co.id/1BOGduIY1o"
   }
 ];
